@@ -84,7 +84,7 @@ http://localhost:9090/service/studentDetailsWsdl.wsdl
 
 ## Wsdl
 
-> You can access the Wsdl from the following url.
+You can access the Wsdl from the following url.
 
 http://localhost:9090/service/studentDetailsWsdl.wsdl 
 
