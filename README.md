@@ -67,6 +67,10 @@ vagrant ssh
 docker-compose up -d
 ```
 
+You can access the Wsdl from the following url.
+
+http://localhost:9090/service/studentDetailsWsdl.wsdl
+
 
 
 ## Used Technologies
@@ -77,5 +81,15 @@ docker-compose up -d
 * Jaxb Runtime
 * Lombok
 * Spring Boot Test
+
+## Wsdl
+
+> You can access the Wsdl from the following url.
+
+http://localhost:9090/service/studentDetailsWsdl.wsdl 
+
+<img src="https://github.com/susimsek/spring-boot-soap-ws-example/blob/main/images/wsdl.png" alt="Soap Wsdl" width="100%" height="100%"/>
+
+
 
 
